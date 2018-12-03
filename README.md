@@ -1,4 +1,4 @@
-# [wxinpay.com](www.wxinpay.com) 个人收款免签系统
+# [wxinpay.com](http://www.wxinpay.com) 个人收款免签系统
 
 特色1：三支持
 
