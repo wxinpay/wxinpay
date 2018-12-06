@@ -64,4 +64,10 @@
 
 * 增加邮件系统，支付成功后，自动向买家邮箱发送 自定义邮件（可包含任意内容，文档商品等）
 
+### 五、预览效果
 
+![1.png](https://github.com/wxinpay/wxinpay/blob/master/png/home.png)
+
+![2.png](https://github.com/wxinpay/wxinpay/blob/master/png/pay.png)
+
+![3.png](https://github.com/wxinpay/wxinpay/blob/master/png/list.png)
