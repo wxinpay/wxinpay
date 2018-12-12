@@ -70,4 +70,4 @@
 
 ![2.png](https://github.com/wxinpay/wxinpay/blob/master/png/pay.png)
 
-![3.png](https://github.com/wxinpay/wxinpay/blob/master/png/list.png)
+![3.png](https://github.com/wxinpay/wxinpay/blob/master/png/list1.png)
